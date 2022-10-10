@@ -1,0 +1,1 @@
+This repo is from the [How To Build Your First TypeScript Project - TODO List Application](https://youtu.be/jBmrduvKl5w) by [@WebDevSimplified](https://github.com/WebDevSimplified/typescript-todo-list)
